@@ -5,7 +5,7 @@ import "./App.css";
 
 //
 let currK;
-
+let curK = 23;
 function App() {
   const [taskList, SetTaskList] = useState([
     { tsk: "Task Example initial ", id: Date.now() },
