@@ -1,0 +1,20 @@
+* {
+  background-color: rgb(189, 234, 234);
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  display: block;
+  height: 150px;
+  width: 98.5vw;
+  background-color: rgb(187, 221, 127);
+  font-size: 32px;
+  text-align: center;
+  padding-top: 2%;
+}
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

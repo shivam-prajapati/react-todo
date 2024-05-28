@@ -1,0 +1,29 @@
+.TodoItem {
+  position: relative;
+  width: 200px;
+  height: 250px;
+  padding: 5px;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: blue;
+  background-color: bisque;
+  margin: 5px;
+  font-size: 22px;
+}
+.edit {
+  position: absolute;
+  width: 40px;
+  height: 17px;
+  bottom: 0px;
+  left: 0px;
+  background-color: rgb(206, 120, 134);
+}
+.delete {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  width: 40px;
+  height: 17px;
+  background-color: rgb(124, 174, 206);
+}
